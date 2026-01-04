@@ -1,1 +1,1 @@
-## Project a for the institute
+## This is a project with information about me
